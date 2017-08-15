@@ -1,7 +1,7 @@
 #CodeBook 
 This CodeBook contains a list of variable utilized in final dataset Week4Peer_TidyData.txt
 
-##Measurement Variable
+####Measurement Variable
 *subjects
 *activities
 *tBodyAccMean-X
@@ -71,7 +71,7 @@ This CodeBook contains a list of variable utilized in final dataset Week4Peer_Ti
 *fBodyBodyGyroJerkMagMean
 *fBodyBodyGyroJerkMagStd 
 
-##key variable for grouping
+####key variable for grouping
 *subjects - The ID of the test subject
 *activities - The type of activity of subject during acquisition
 
